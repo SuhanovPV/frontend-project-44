@@ -1,0 +1,24 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "project brain games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhanovPV/frontend-project-44.git"
+  },
+  "author": "Sukhanov P.V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuhanovPV/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/SuhanovPV/frontend-project-44#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "prettier": "^2.8.1"
+  }
+}
